@@ -116,5 +116,5 @@ Developing custom exploits requires precision and creativity. My deep knowledge 
 - **GitHub**: [NullBytes](https://github.com/NullBytesx)
 
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/1286028337579560982?theme=dark&bg=000000&borderRadius=20px&animated=true" alt="Discord Presence">
+<img src="https://lanyard.cnrad.dev/api/1286028337579560982?theme=dark&bg=000000&borderRadius=20px&animated=true&idleMessage=Black%20hat%20User" alt="Discord Presence">
 </div>
